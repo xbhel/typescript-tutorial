@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    // 启用严格类型检查编译
+    "strict": true,
+    "target": "ESNext"
+  }
+}
